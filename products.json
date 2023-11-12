@@ -28,5 +28,41 @@
     "id": 4,
     "image": "img_bread",
     "name": "Bread"
+  },
+  {
+    "cateory": "",
+    "id": 5,
+    "image": "img_carrot",
+    "name": "Carrot"
+  },
+  {
+    "cateory": "",
+    "id": 6,
+    "image": "img_cherries",
+    "name": "Cherries"
+  },
+  {
+    "cateory": "",
+    "id": 7,
+    "image": "img_chili",
+    "name": "Chili"
+  },
+  {
+    "cateory": "",
+    "id": 8,
+    "image": "img_garlic",
+    "name": "Garlic"
+  },
+  {
+    "cateory": "",
+    "id": 9,
+    "image": "img_grapes",
+    "name": "Grapes"
+  },
+  {
+    "cateory": "",
+    "id": 10,
+    "image": "img_meat",
+    "name": "Meat"
   }
 ]
