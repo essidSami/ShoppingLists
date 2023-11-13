@@ -1,0 +1,152 @@
+[
+  {
+    "name": "electronique & bureau",
+    "id": 0,
+    "image": "img_electronics",
+    "color": "b6def7"
+  },
+{
+    "name": "bébé",
+    "id": 1,
+    "image": "img_baby",
+    "color": "c2e6e6"
+  },
+  {
+    "name": "granes & pâtes",
+    "id": 2,
+    "image": "img_pasta",
+    "color": "cbe5be"
+  },
+  {
+    "name": "pâtisseries maison",
+    "id": 3,
+    "image": "img_pastries",
+    "color": "d1cfe7"
+  },
+  {
+    "name": "biscuits & sucreries",
+    "id": 4,
+    "image": "img_cookies",
+    "color": "f8d8e5"
+  },
+  {
+    "name": "bière, vins et spiritueux",
+    "id": 5,
+    "image": "img_beer",
+    "color": "fcddd8"
+  },
+  {
+    "name": "conserves et pots",
+    "id": 6,
+    "image": "img_cans",
+    "color": "f79824"
+  },
+  {
+    "name": "café & thé",
+    "id": 7,
+    "image": "img_coffee",
+    "color": "fff5a0"
+  },
+  {
+    "name": "beauté & hygiène corporelle",
+    "id": 8,
+    "image": "img_beauty",
+    "color": "e0d0b6"
+  },
+  {
+    "name": "viande & volaille",
+    "id": 9,
+    "image": "img_meat",
+    "color": "a8bee3"
+  },
+  {
+    "name": "surgelés",
+    "id": 10,
+    "image": "img_frozen",
+    "color": "92d4d2"
+  },
+  {
+    "name": "produits laiters & œufs",
+    "id": 11,
+    "image": "img_milk",
+    "color": "afd799"
+  },
+  {
+    "name": "boissons",
+    "id": 12,
+    "image": "img_drinks",
+    "color": "bfbbde"
+  },
+  {
+    "name": "santé",
+    "id": 13,
+    "image": "img_health",
+    "color": "f8c2da"
+  },
+  {
+    "name": "epices & sauces",
+    "id": 14,
+    "image": "img_spices",
+    "color": "f8bca4"
+  },
+  {
+    "name": "poisson & fruits de mer",
+    "id": 15,
+    "image": "img_fish",
+    "color": "f47723"
+  },
+  {
+    "name": "autres",
+    "id": 16,
+    "image": "img_others",
+    "color": "fff67f"
+  },
+  {
+    "name": "huiles",
+    "id": 17,
+    "image": "img_oils",
+    "color": "b3a99d"
+  },
+  {
+    "name": "fruits & légumes",
+    "id": 18,
+    "image": "img_fruits",
+    "color": "61cdf4"
+  },
+  {
+    "name": "boulangerie",
+    "id": 19,
+    "image": "img_bakery",
+    "color": "7dccd9"
+  },
+  {
+    "name": "animaux domistiques",
+    "id": 20,
+    "image": "img_animals",
+    "color": "a4d59d"
+  },
+  {
+    "name": "ménage",
+    "id": 21,
+    "image": "img_household",
+    "color": "c7a2cd"
+  },
+  {
+    "name": "plats préparés",
+    "id": 22,
+    "image": "img_dishes",
+    "color": "e69da8"
+  },
+  {
+    "name": "vêtements",
+    "id": 23,
+    "image": "img_clothes",
+    "color": "f48478"
+  },
+  {
+    "name": "jardin & bricolage",
+    "id": 24,
+    "image": "img_garden",
+    "color": "f15524"
+  }
+]
