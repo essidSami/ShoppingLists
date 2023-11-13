@@ -56,7 +56,7 @@
   {
     "name": "viande & volaille",
     "id": 9,
-    "image": "img_cheese",
+    "image": "img_meat",
     "color": "a8bee3"
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "produits laiters & œufs",
     "id": 11,
-    "image": "img_milk",
+    "image": "img_cheese",
     "color": "afd799"
   },
   {
