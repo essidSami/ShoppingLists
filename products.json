@@ -1,66 +1,66 @@
 [
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 0,
     "image": "img_apple",
     "name": "Apple"
   },
 {
-    "category": "produits laitiers & œufs",
+    "category": "11",
     "id": 1,
     "image": "img_cheese",
     "name": "Cheese"
   },
 {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 2,
     "image": "img_pear",
     "name": "Pear"
   },
 {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 3,
     "image": "img_strawberry",
     "name": "Strawberry"
   },
 {
-    "category": "boulangerie",
+    "category": 19,
     "id": 4,
     "image": "img_bread",
     "name": "Bread"
   },
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 5,
     "image": "img_carrot",
     "name": "Carrot"
   },
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 6,
     "image": "img_cherries",
     "name": "Cherries"
   },
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 7,
     "image": "img_chili",
     "name": "Chili"
   },
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 8,
     "image": "img_garlic",
     "name": "Garlic"
   },
   {
-    "category": "féruits & légumes",
+    "category": 18,
     "id": 9,
     "image": "img_grapes",
     "name": "Grapes"
   },
   {
-    "category": "viande & volaille",
+    "category": 9,
     "id": 10,
     "image": "img_meat",
     "name": "Meat"
