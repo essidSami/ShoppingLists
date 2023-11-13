@@ -1,6 +1,6 @@
 [
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 0,
     "image": "img_apple",
     "name": "Apple"
@@ -12,55 +12,55 @@
     "name": "Cheese"
   },
 {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 2,
     "image": "img_pear",
     "name": "Pear"
   },
 {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 3,
     "image": "img_strawberry",
     "name": "Strawberry"
   },
 {
-    "cateory": "",
+    "cateory": "boulangerie",
     "id": 4,
     "image": "img_bread",
     "name": "Bread"
   },
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 5,
     "image": "img_carrot",
     "name": "Carrot"
   },
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 6,
     "image": "img_cherries",
     "name": "Cherries"
   },
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 7,
     "image": "img_chili",
     "name": "Chili"
   },
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 8,
     "image": "img_garlic",
     "name": "Garlic"
   },
   {
-    "cateory": "",
+    "cateory": "féruits & légumes",
     "id": 9,
     "image": "img_grapes",
     "name": "Grapes"
   },
   {
-    "cateory": "",
+    "cateory": "viande & volaille",
     "id": 10,
     "image": "img_meat",
     "name": "Meat"
