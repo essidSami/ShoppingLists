@@ -64,5 +64,65 @@
     "id": 10,
     "image": "img_meat",
     "name": "Meat"
+  },
+  {
+    "category": 8,
+    "id": 11,
+    "image": "img_toilet_paper",
+    "name": "Papier toilette"
+  },
+  {
+    "category": 14,
+    "id": 12,
+    "image": "img_ketchup",
+    "name": "Ketchup"
+  },
+  {
+    "category": 4,
+    "id": 13,
+    "image": "img_chips",
+    "name": "Chips"
+  },
+  {
+    "category": 8,
+    "id": 14,
+    "image": "img_soap",
+    "name": "Savon"
+  },
+  {
+    "category": 1,
+    "id": 15,
+    "image": "img_diaper",
+    "name": "Couche"
+  },
+  {
+    "category": 8,
+    "id": 16,
+    "image": "img_deodorant",
+    "name": "Déodorant"
+  },
+  {
+    "category": 4,
+    "id": 17,
+    "image": "img_chocolate",
+    "name": "Chocolat"
+  },
+  {
+    "category": 15,
+    "id": 18,
+    "image": "img_fish",
+    "name": "Poisson"
+  },
+  {
+    "category": 2,
+    "id": 19,
+    "image": "img_pasta",
+    "name": "Riz"
+  },
+  {
+    "category": 2,
+    "id": 20,
+    "image": "img_pasta",
+    "name": "Pâtes"
   }
 ]
