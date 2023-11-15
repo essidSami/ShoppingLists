@@ -15,7 +15,7 @@
     "name": "granes & pâtes",
     "id": 2,
     "image": "img_pasta",
-    "color": "fffff1"
+    "color": "fff5ed"
   },
   {
     "name": "pâtisseries maison",
@@ -69,7 +69,7 @@
     "name": "produits laiters & œufs",
     "id": 11,
     "image": "img_cheese",
-    "color": "feeddd"
+    "color": "fff1e5"
   },
   {
     "name": "boissons",
@@ -87,13 +87,13 @@
     "name": "epices & sauces",
     "id": 14,
     "image": "img_chili",
-    "color": "e7edf9"
+    "color": "feedff"
   },
   {
     "name": "poisson & fruits de mer",
     "id": 15,
     "image": "img_fish",
-    "color": "efedf8"
+    "color": "ededf7"
   },
   {
     "name": "autres",
@@ -111,13 +111,13 @@
     "name": "fruits & légumes",
     "id": 18,
     "image": "img_fruits",
-    "color": "ffe5d9"
+    "color": "f3ffdb"
   },
   {
     "name": "boulangerie",
     "id": 19,
     "image": "img_bread",
-    "color": "FBFAF0"
+    "color": "fdf1ff"
   },
   {
     "name": "animaux domistiques",
