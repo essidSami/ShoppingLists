@@ -3,25 +3,25 @@
     "name": "electronique & bureau",
     "id": 0,
     "image": "img_electronics",
-    "color": "fff6f6"
+    "color": "f5f9ff"
   },
 {
     "name": "bébé",
     "id": 1,
     "image": "img_baby",
-    "color": "fff7ef"
+    "color": "f5f9ff"
   },
   {
     "name": "granes & pâtes",
     "id": 2,
     "image": "img_pasta",
-    "color": "fff5ed"
+    "color": "f5f9ff"
   },
   {
     "name": "pâtisseries maison",
     "id": 3,
     "image": "img_pastries",
-    "color": "f7fff3"
+    "color": "f5f9ff"
   },
   {
     "name": "biscuits & sucreries",
@@ -33,120 +33,120 @@
     "name": "bière, vins et spiritueux",
     "id": 5,
     "image": "img_beer",
-    "color": "fff7f5"
+    "color": "f5f9ff"
   },
   {
     "name": "conserves et pots",
     "id": 6,
     "image": "img_cans",
-    "color": "fff9f3"
+    "color": "f5f9ff"
   },
   {
     "name": "café & thé",
     "id": 7,
     "image": "img_coffee",
-    "color": "fffced"
+    "color": "f5f9ff"
   },
   {
     "name": "beauté & hygiène corporelle",
     "id": 8,
     "image": "img_beauty",
-    "color": "f8faf5"
+    "color": "f5f9ff"
   },
   {
     "name": "viande & volaille",
     "id": 9,
     "image": "img_meat",
-    "color": "f9f8fd"
+    "color": "f5f9ff"
   },
   {
     "name": "surgelés",
     "id": 10,
     "image": "img_frozen",
-    "color": "fce9e5"
+    "color": "f5f9ff"
   },
   {
     "name": "produits laiters & œufs",
     "id": 11,
     "image": "img_cheese",
-    "color": "fff1e5"
+    "color": "f5f9ff"
   },
   {
     "name": "boissons",
     "id": 12,
     "image": "img_drinks",
-    "color": "fff6d2"
+    "color": "f5f9ff"
   },
   {
     "name": "santé",
     "id": 13,
     "image": "img_health",
-    "color": "e9f4e6"
+    "color": "f5f9ff"
   },
   {
     "name": "epices & sauces",
     "id": 14,
     "image": "img_chili",
-    "color": "feedff"
+    "color": "f5f9ff"
   },
   {
     "name": "poisson & fruits de mer",
     "id": 15,
     "image": "img_fish",
-    "color": "ededf7"
+    "color": "f5f9ff"
   },
   {
     "name": "autres",
     "id": 16,
     "image": "img_others",
-    "color": "f0f0f0"
+    "color": "f5f9ff"
   },
   {
     "name": "huiles",
     "id": 17,
     "image": "img_oils",
-    "color": "f8e2dc"
+    "color": "f5f9ff"
   },
   {
     "name": "fruits & légumes",
     "id": 18,
     "image": "img_fruits",
-    "color": "f3ffdb"
+    "color": "f5f9ff"
   },
   {
     "name": "boulangerie",
     "id": 19,
     "image": "img_bread",
-    "color": "fdf1ff"
+    "color": "f5f9ff"
   },
   {
     "name": "animaux domistiques",
     "id": 20,
     "image": "img_animals",
-    "color": "FFE9EE"
+    "color": "f5f9ff"
   },
   {
     "name": "ménage",
     "id": 21,
     "image": "img_household",
-    "color": "FFDDE4"
+    "color": "f5f9ff"
   },
   {
     "name": "plats préparés",
     "id": 22,
     "image": "img_dishes",
-    "color": "ffdbe4"
+    "color": "f5f9ff"
   },
   {
     "name": "vêtements",
     "id": 23,
     "image": "img_clothes",
-    "color": "dad8ff"
+    "color": "f5f9ff"
   },
   {
     "name": "jardin & bricolage",
     "id": 24,
     "image": "img_garden",
-    "color": "fff0d6"
+    "color": "f5f9ff"
   }
 ]
